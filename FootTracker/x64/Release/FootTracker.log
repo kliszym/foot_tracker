@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  FootTracker.cpp
+     Creating library C:\Users\Szymon Klimek\source\repos\FootTracker\x64\Release\FootTracker.lib and object C:\Users\Szymon Klimek\source\repos\FootTracker\x64\Release\FootTracker.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 101 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FootTracker.vcxproj -> C:\Users\Szymon Klimek\source\repos\FootTracker\x64\Release\FootTracker.dll

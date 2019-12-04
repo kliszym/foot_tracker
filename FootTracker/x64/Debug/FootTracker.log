@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  FootTracker.cpp
+  Generating Code...
+C:\Users\Szymon Klimek\source\repos\FootTracker\FootTracker\FootTracker.cpp(59,22): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\Szymon Klimek\source\repos\FootTracker\x64\Debug\FootTracker.lib and object C:\Users\Szymon Klimek\source\repos\FootTracker\x64\Debug\FootTracker.exp
+  FootTracker.vcxproj -> C:\Users\Szymon Klimek\source\repos\FootTracker\x64\Debug\FootTracker.dll
